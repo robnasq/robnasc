@@ -1,5 +1,5 @@
 ## Welcome to my profile!
-Student developer passionate about building practical projects and learning React... 
+🧑🏻‍💻 Frontend treinee, learning while executing every day! 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=robnasq&layout=compact&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true">
 </div>
